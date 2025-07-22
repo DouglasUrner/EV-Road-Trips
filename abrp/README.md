@@ -2,8 +2,8 @@
 
 ## [Installing & Setting Up ABRP](install-and-setup.md)
 
-### Live Data
+## [Getting Started with ABRP](getting-started.md)
 
-### Vehicle Profiles
+## [Route Planning](route-planning.md)
 
-### ABRP Settings
+## [Driving the Route](driving.md)
