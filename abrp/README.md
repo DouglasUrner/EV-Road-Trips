@@ -1,9 +1,9 @@
 # A Better Route Planner
 
-## [Installing & Setting Up ABRP](install-and-setup.md)
+## [Introduction](00-introduction.md)
 
-## [Getting Started with ABRP](getting-started.md)
+## [Getting Started with ABRP](01-getting-started/README.md)
 
-## [Route Planning](route-planning.md)
+## [Route Planning](02-route-planning/README.md)
 
-## [Driving the Route](driving.md)
+## [Driving the Route](03-driving/README.md)
