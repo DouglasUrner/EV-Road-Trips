@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: EV Road Trips
-email: apbr.tutorial@fastmail.net
+email: abrp.tutorial@fastmail.net
 description: >- # this means to ignore newlines until "baseurl:"
   Resources for planning and making road trips in EVs (mostly in the US since that's 
   where I live).
