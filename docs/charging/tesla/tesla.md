@@ -30,6 +30,8 @@ There are three Supercharger variations:
 1. "Public" Superchargers that are "open to non-Tesla EVs." You can charge a supported vehile at these Superchargers but you may need to bring your own NACS adapter.
 1. "Magic Dock" Superchargers: these are public Superchargers with their own CCS adapters.
 
+In addition to the will work / won't work / must have your own adapter distinctions, later, "Version 4" Superchargers have longer cables that make it easier to be a good neighbor while charging a non-Tesla car. [Supercharge.info](https://supercharge.info/map) maintains a map that makes it very easy to see the type of charger that you are heading to.
+
 As long as you have an NACS adapter, any public Supercharger should work for you.
 
 There are a number of ways to find a Supercharger:
