@@ -5,7 +5,7 @@
 layout: home
 ---
 
-[A Better Route Planner Tutorial]()
+[A Better Route Planner Tutorial](abrp/tutorial/index.md)
 
 Charging
 * [Electrify America](charging/ea/ea.md)
