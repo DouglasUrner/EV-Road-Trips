@@ -19,9 +19,9 @@ If you think it's a go, then a phone is pretty much required if you want to use 
 # Very Useful
 
 * An ODB2 "dongle," this device plugs into the diagnostic port on your car and allows ABRP to monitor your battery in real-time. Not all dongles are created equal: security, compatibility with ABRP, reliability, and energy consumption are all considerations. There is [more discussion and a list](https://www.iternio.com/abrp-obd) of known-to-work (and known-not-to-work) dongles on the Iternio website. Two reasonable options are:
-  - [ODBLink CX]()
+  - [ODBLink CX](https://www.obdlink.com/products/obdlink-cx/)
   - [Vgate vLinker MC+]()
-* The app for your ODB2 dongle. It may come in handy for testing or troubleshooting, and if you're inclinded to nerd out on data it can be a nice distraction during charging stops.
+* The app for your ODB2 dongle: **ODBLink** for the OBDLinkC CX ([iOS version](https://apps.apple.com/us/app/obdlink/id879636351) [Android version]([iOS version](https://apps.apple.com/us/app/obdlink/id879636351))); []() for the Vgate vLinker MC+. It may come in handy for testing or troubleshooting, and if you're inclinded to nerd out on data it can be a nice distraction during charging stops.
 
 # Nice To Have
 
