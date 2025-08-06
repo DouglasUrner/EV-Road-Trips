@@ -11,7 +11,7 @@ ABRP attempts to create the most expeditious route between your starting point a
 
 **Guidepoints** are locations that you pass through (without a planned stop) on your way to your destination. You can use guidepoints to tell ABRP how you'd like to get to the destination.
 
-If you want to plan stops at interesting points along the way, add them as **waypoints** (as opposed to as guidepoints) will cause ABRP to calculate your arrival time at the way point and will display the waypoint on the [next stop tile](../ui/driving-view/next-stop-tile/index.html)
+If you want to plan stops at interesting points along the way, add them as **waypoints** (as opposed to as guidepoints) will cause ABRP to calculate your arrival time at the way point and will display the waypoint on the [next stop tile](../../../ui/driving-view/next-stop-tile/index.md)
 
 #### Adding a Ferry To Your Route
 
